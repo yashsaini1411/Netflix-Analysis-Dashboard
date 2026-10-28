@@ -60,7 +60,7 @@ The dataset contains information about Netflix titles, including:
 </p>
 
 <p align="center">
-  <em>Netflix Analysis Dashboard built using Microsoft Power BI</em>
+  <em>Netflix Analysis Dashboard built using Microsoft Power BI & Power Query</em>
 </p>
 
 💡 Skills Demonstrated
