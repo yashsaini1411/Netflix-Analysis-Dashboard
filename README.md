@@ -22,17 +22,11 @@ The Netflix Analysis Dashboard is an interactive Power BI project designed to an
 📊 Dashboard Features
 
 Content Distribution: Compare the number of movies and TV shows.
-
 Genre Analysis: Explore content categories and popular genres.
-
 Country Analysis: Examine Netflix content across countries.
-
 Release-Year Trends: Analyze content by release year.
-
 Ratings Analysis: Understand the distribution of content ratings.
-
 Interactive Exploration: Use filters and slicers to explore the data.
-
 KPI Cards & Charts: Present key metrics in a clear, visual format.
 
 📂 Dataset Description
