@@ -1,122 +1,78 @@
-\# Netflix Analysis Dashboard
+🎬 Netflix Analysis Dashboard | Power BI
 
+📌 Project Overview
 
+The Netflix Analysis Dashboard is an interactive Power BI project designed to analyze Netflix movies and TV shows. It explores content distribution, genres, ratings, countries, and release-year trends to uncover meaningful insights into Netflix's content library.
 
-\## Project Overview
+🎯 Project Objectives
 
+- Analyze the distribution of movies and TV shows
+- Identify popular genres and content categories
+- Explore content by country and release year
+- Analyze ratings and content trends
+- Support data-driven insights through interactive visualizations
 
+🛠️ Tools & Technologies
 
-This project analyzes Netflix movies and TV shows using Power BI to explore content distribution, genre trends, ratings, and the growth of Netflix's content library.
+- Power BI
+- Microsoft Excel
+- DAX
+- Power Query
 
+📊 Dashboard Features
 
+Content Distribution: Compare the number of movies and TV shows.
 
-\## Objective
+Genre Analysis: Explore content categories and popular genres.
 
+Country Analysis: Examine Netflix content across countries.
 
+Release-Year Trends: Analyze content by release year.
 
-\- Analyze the distribution of movies and TV shows
+Ratings Analysis: Understand the distribution of content ratings.
 
-\- Identify popular genres and content categories
+Interactive Exploration: Use filters and slicers to explore the data.
 
-\- Explore content by country and release year
+KPI Cards & Charts: Present key metrics in a clear, visual format.
 
-\- Analyze ratings and content trends
+📂 Dataset Description
 
-\- Support data-driven insights through interactive visualizations
+The dataset contains information about Netflix titles, including:
 
+- Show ID
+- Title
+- Type (Movie or TV Show)
+- Director and Cast
+- Country
+- Date Added
+- Release Year
+- Rating
+- Duration
+- Listed-in (Genres)
+- Description
 
+🖼️ Dashboard Preview
 
-\## Tools Used
+<!-- Replace the image path below with your actual screenshot path -->
 
+<p align="center">
+  <img src="Images/Overview.png" alt="Netflix Analysis Dashboard" width="900"/>
+</p>
 
+<p align="center">
+  <em>Netflix Analysis Dashboard built using Microsoft Power BI</em>
+</p>
 
-\- Power BI
+💡 Skills Demonstrated
 
-\- Microsoft Excel
+- Data Cleaning
+- Data Transformation
+- Data Visualization
+- Power Query
+- DAX
+- Business Intelligence
+- Dashboard Design
 
-\- DAX
+🚀 Key Takeaway
 
-\- Power Query
-
-
-
-\## Dashboard Features
-
-
-
-\- Movies and TV shows distribution
-
-\- Content analysis by genre and country
-
-\- Release year and content trends
-
-\- Ratings and category analysis
-
-\- Interactive filters and slicers
-
-\- KPI cards and charts
-
-
-
-\## Dataset
-
-
-
-The project uses a Netflix dataset containing information about:
-
-
-
-\- Show ID
-
-\- Title
-
-\- Type (Movie or TV Show)
-
-\- Director and Cast
-
-\- Country
-
-\- Date Added
-
-\- Release Year
-
-\- Rating
-
-\- Duration
-
-\- Listed-in (Genres)
-
-\- Description
-
-
-
-\## Dashboard Preview
-
-
-
-
-
-!\[Netflix Dashboard](Images/Overview.png)
-
-
-
-
-
-\## Skills Demonstrated
-
-
-
-\- Data Cleaning
-
-\- Data Transformation
-
-\- Data Visualization
-
-\- Power Query
-
-\- DAX
-
-\- Business Intelligence
-
-\- Dashboard Design
-
+This project demonstrates how Power BI can transform raw entertainment data into an interactive dashboard, making it easier to explore content distribution, ratings, genres, and historical trends.
